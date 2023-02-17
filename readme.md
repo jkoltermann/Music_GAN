@@ -1,4 +1,4 @@
-# Final Capstone Project: Music Generative Adversarial Networks
+# Music Generative Adversarial Networks
 
 ## Problem Statement
 
