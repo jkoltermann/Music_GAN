@@ -8,6 +8,15 @@ One common solution often proposed is to limit your optionality. Perhaps force y
 
 My goal in this project has been to create a minimum viable product to see what I could create to help begin the process of music production.
 
+## Project Notebook Structure Overview
+
+I worked on this Project Across several Notebooks. To quickly summarize the structure and contents of each, please see below.
+- **Spotify_Data_Pull.ipynb:** I deploy a class to pull and save data in a structured an organized manner.
+- **EDA.ipynb:** Contains some simple interesting analysis of the broader Spotify dataset.
+- **Data_Setting.ipynb:** I structure my data to prepare it for training within the GAN.
+- **Vanilla_Model.ipynb:** I construct a tensorflow subclass to train a generator and discriminator network simultaneously, and train the network.
+- **MVP output.ipynb:** Contains my method to take generated rythem tensors and create midi files.
+
 ## Executive Summary
 
 To build a tool that can help begin a catchy song, it would need to be very effective in capturing the important factors associated with whatever genre that you are working within. This lead to me realizing that there is probably no better way to get a catchy beat than from songs that were confidently sent into the marketplace. Thus, after researching what data was publically available and chose Spotify as my source of data, and began my data pulling.
