@@ -15,7 +15,7 @@ I worked on this Project Across several Notebooks. To quickly summarize the stru
 - **EDA.ipynb:** Contains some simple interesting analysis of the broader Spotify dataset.
 - **Data_Setting.ipynb:** I structure my data to prepare it for training within the GAN.
 - **Vanilla_Model.ipynb:** I construct a tensorflow subclass to train a generator and discriminator network simultaneously, and train the network.
-- **MVP output.ipynb:** Contains my method to take generated rythem tensors and create midi files.
+- **MVP output.ipynb:** Contains my method to take generated rythm tensors and create midi files.
 
 ## Executive Summary
 
